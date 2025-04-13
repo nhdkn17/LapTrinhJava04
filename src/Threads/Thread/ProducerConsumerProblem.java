@@ -1,4 +1,4 @@
-package Thread;
+package Threads.Thread;
 
 public class ProducerConsumerProblem {
     Store store;

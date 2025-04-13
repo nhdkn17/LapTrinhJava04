@@ -1,4 +1,4 @@
-package Thread;
+package Threads.Thread;
 
 public class Producer extends Thread{
     Store store = null;

@@ -1,4 +1,4 @@
-package Thread;
+package Threads.Thread;
 
 public class Consumer extends Thread{
     Store store = null;

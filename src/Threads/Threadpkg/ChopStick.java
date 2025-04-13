@@ -1,4 +1,4 @@
-package Threadpkg;
+package Threads.Threadpkg;
 
 public class ChopStick {
     boolean ready;

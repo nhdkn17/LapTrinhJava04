@@ -1,4 +1,4 @@
-package Thread;
+package Threads.Thread;
 
 public class Store{
     int maxN_store = 50;
